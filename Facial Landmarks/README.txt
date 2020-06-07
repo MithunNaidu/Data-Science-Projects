@@ -7,4 +7,7 @@ You can download & extract the shape predictor used in the project from the inte
 Here is a link to help you out;
 https://github.com/charlielito/face-swap-opencv-dlib/blob/master/shape_predictor_68_face_landmarks.dat
 
+facial_landamarks.pynb detects landmarks by taking in an image as input
+video_facial_landmarks.pynb detects landmarks on video(Webcam, video file...)
+
 Don't forget to checkout www.pyimagesearch.com to explore & learn these amazing Computer Vision concepts
