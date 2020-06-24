@@ -3,6 +3,7 @@ Overview:
 •	We will definitely know the limitations of OpenCV based detectors when we feed in different types of input to it.
 •	We have to tweak the code if the image quality defers & finding the right values for few constants/parameters is purely by trial and error techniques. Thanks to the amazing documentation of OpenCV website, that makes the understanding of few parameters relatively easy & help us getting to the optimum value sooner. 
 •	Having said that, this project of License Plate Detection, combines the tasks of detecting a license plate in the image & recognizing the characters in it. This would help one(especially beginners in Computer Vision field) understand various image pre-processing concepts & get some hands-on experience on them.
+
 Tools used: 
 Python, Jupyter notebook, OpenCV & Tesseract OCR + Pytesseract for python bindings
 
